@@ -32,3 +32,9 @@
   text-align: center;
   padding: 20px;
 }
+
+h2 {
+  color: #6930c3;
+  font-weight: 900;
+  font-size: 48px;
+}

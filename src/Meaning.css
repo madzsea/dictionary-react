@@ -1,0 +1,13 @@
+.Meaning h3 {
+  font-style: italic;
+  font-size: 28px;
+}
+
+.Meaning .example {
+  font-style: italic;
+  color: #0c7489;
+}
+
+.Meaning p {
+  font-size: 18px;
+}
