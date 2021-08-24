@@ -13,6 +13,8 @@ export default function App() {
           <a
             href="https://github.com/madzsea/dictionary-react"
             className="link"
+            target="_blank"
+            rel="noreferrer"
           >
             Open source code
           </a>
