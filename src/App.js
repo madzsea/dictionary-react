@@ -10,6 +10,12 @@ export default function App() {
         </header>
         <main>
           <Dictionary />{" "}
+          <a
+            href="https://github.com/madzsea/dictionary-react"
+            className="link"
+          >
+            Open source code
+          </a>
         </main>
       </div>
     </div>
