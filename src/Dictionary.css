@@ -5,6 +5,10 @@
 .dictionary .search-text {
   width: 40%;
   padding: 20px auto;
+  border-radius: 10px;
+  border-color: #3bd0c6;
+  border-style: solid;
+  border-width: thin;
 }
 
 .dictionary .search-button {
@@ -24,6 +28,7 @@
   border-style: solid;
   margin: 10px;
   font-weight: bold;
+  transition: all 150ms ease-in-out;
 }
 
 .dictionary form {

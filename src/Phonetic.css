@@ -3,5 +3,16 @@
 }
 
 .phonetic-text {
-  color: #f4a261;
+  color: #7e7b79;
+  font-weight: bold;
+}
+
+.listen {
+  color: #ef7b6c;
+}
+
+.listen:hover {
+  color: #6930c3;
+  text-decoration: none;
+  transition: all 150ms ease-in-out;
 }

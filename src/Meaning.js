@@ -10,10 +10,9 @@ export default function Meaning(props) {
           <div key={index}>
             <h3>{props.meaning.partOfSpeech}</h3>
             <p>
-              {definition.definition}
+              : {definition.definition}
               <br />
               <div className="example">{definition.example} </div>
-              <br />
               <Synonyms synonyms={definition.synonyms} />
             </p>
           </div>
